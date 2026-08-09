@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 ## Выделение кода
 
 `тут какой-то код`
@@ -17,3 +19,5 @@
 > Второй абзац цитаты
 
 <https://github.com/vtrotsyuk/test/edit/main/README.md>
+
+<a href="#readme-top">back to top</a>
